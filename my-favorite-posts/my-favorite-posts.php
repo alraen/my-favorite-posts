@@ -180,5 +180,4 @@ class MyFavoritePosts {
 $MyFavoritePosts = new MyFavoritePosts();
 
 
-
 ?>
