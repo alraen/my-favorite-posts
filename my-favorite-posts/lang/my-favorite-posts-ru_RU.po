@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: my-favorite-posts\n"
+"POT-Creation-Date: 2017-01-15 04:08+0200\n"
+"PO-Revision-Date: 2017-01-15 04:08+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: my-favorite-posts.php\n"
+
+#: my-favorite-posts.php:69 my-favorite-posts.php:148
+msgid "Remove from favorite"
+msgstr "Удалить из избранного"
+
+#: my-favorite-posts.php:72
+msgid "Add to favorite"
+msgstr "Добавить в избранное"
+
+#: my-favorite-posts.php:157
+msgid "No entries found"
+msgstr "Записей не найдено"
